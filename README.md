@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a QA engineer.<br>Learning MERN stack.<br>Interested in AI/ML
+Currently working as a QA engineer.<br>Sharpening my skills with MERN stack.<br>Interested in AI/ML
 
 
 # 💻 Tech Stack:
